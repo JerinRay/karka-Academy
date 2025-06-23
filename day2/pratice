@@ -1,0 +1,8 @@
+name="my name is","jerin"
+age="my age is","20"
+place="my place is","Nagercoil"
+mobile="my mobile num","7603890114"
+print(name)
+print(age)
+print(place)
+print(mobile)
